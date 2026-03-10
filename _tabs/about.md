@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hey, I'm **Yacine Rahmoun** — a pentester, bug bounty hunter, and security researcher based in Algeria.
+Hey, I'm **Yacine Rahmoun** — a pentester, bug bounty hunter, and security researcher.
 
 I'm passionate about offensive security across the full stack — web, API, network, Active Directory, and mobile. I don't limit myself to one domain; I believe a good attacker understands the whole picture.
 
@@ -44,4 +44,4 @@ I spend my time hunting bugs, breaking into things legally, and constantly learn
 
 ## Get in Touch
 
-Feel free to reach out at [yacine@bypassed.uk](mailto:yacine@bypassed.uk)
+Feel free to reach out for **collaborations, bug bounty tips, or pentest assessments** at [yacine@bypassed.uk](mailto:yacine@bypassed.uk)
